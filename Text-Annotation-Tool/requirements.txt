@@ -1,0 +1,5 @@
+dj-database-url
+django-heroku
+djangorestframework
+django-filter
+django-widget-tweaks
