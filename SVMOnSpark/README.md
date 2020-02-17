@@ -1,8 +1,5 @@
 # SVMOnSpark
 
-Yuhao Yang
-May 2016
-
 SVMOnSpark is an implementation of distributed SMO algorithm to train a binary Support Vector Machine.
 The scalability is supposed to be very good as it avoids shuffle and unnecessary communication.
 
@@ -17,6 +14,3 @@ Example folder.
 ## Accuracy and Scalability
 The implementation has been tested against MNist dataset and get an accuracy about 99% on the test data set (one vs rest).
 We'll post more results once they are ready.
-
-
-

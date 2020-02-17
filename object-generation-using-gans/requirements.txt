@@ -1,0 +1,7 @@
+tensorflow
+scipy 
+numpy 
+matplotlib
+dominate
+visdom
+# addtionaly you need torch installed. please visit the website on how to install your machine. 
